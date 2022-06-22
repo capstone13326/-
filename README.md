@@ -39,7 +39,7 @@
   
   
 <video width="100%" height="100%" controls="controls">
-  <source src="/Users/LG/Desktop/4학년/캡스톤디자인/회원가입.mp4)" type="video/mp4">
+  <source src="4학년/캡스톤디자인/회원가입.mp4)" type="video/mp4">
 </video>
   
   
