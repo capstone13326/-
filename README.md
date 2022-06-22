@@ -15,13 +15,20 @@
 
 ## **3. 진행사항**
 
-### 13주차
+### 12주차
 
 * 웹서버 부분
- >플라스크 라이브 웹스트리밍
+ > motion을 이용한 라이브 웹스트리밍(웹 카메라 작동 확인)
+ > motion 설치
+ > $ sudo apt-get install motion
 
 
 ![Hnet-image](https://user-images.githubusercontent.com/105420733/170521420-48f7b16f-75a5-469e-91fe-d81626b120f0.gif)
+
+
+> 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
+
+### 13
   
   
   
