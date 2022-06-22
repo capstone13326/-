@@ -19,7 +19,9 @@
 
 * 웹서버 부분
  > motion을 이용한 라이브 웹스트리밍(웹 카메라 작동 확인)
+ > 
  > motion 설치
+ > 
  > $ sudo apt-get install motion
 
 
