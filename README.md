@@ -42,7 +42,9 @@
   <source src="4학년/캡스톤디자인/회원가입.mp4)" type="video/mp4">
 </video>
   
+  > 데이터베이스 관리 시스템 DBMS((DataBase Management System)을 사용
   
+  > SQLite를 사용하여 사용자 로그인 데이터베이스 관리
 * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
 ![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
