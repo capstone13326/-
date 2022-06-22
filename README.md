@@ -59,6 +59,6 @@
   
   
   
-* Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
+* 교수님 피드백에 따라 Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
 ![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
