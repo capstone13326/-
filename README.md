@@ -38,7 +38,9 @@
 > 회원가입 및 로그인, 로그아웃 기능
   
   
-![회원가입](https://user-images.githubusercontent.com/105420733/175080252-ff492144-bc4d-4b29-b0c1-a912931d73d5.gif)
+<video width="100%" height="100%" controls="controls">
+  <source src="C:/Users/LG/Desktop/4학년/캡스톤디자인/회원가입.mp4)" type="video/mp4">
+</video>
   
   
 * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
