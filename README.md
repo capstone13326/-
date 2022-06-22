@@ -15,6 +15,7 @@
 
 ## **3. 진행사항**
 
+
 ### 12주차
 
 * 웹서버 부분
@@ -31,6 +32,7 @@
 
 > 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
 
+
 ### 13주차
 
 * 웹서버 부분
@@ -44,7 +46,19 @@
   
   > 데이터베이스 관리 시스템 DBMS((DataBase Management System)을 사용
   
+  ![sq](https://user-images.githubusercontent.com/105420733/175082466-4d99816f-b047-4f11-8366-96bb19c89071.png)
+  
   > SQLite를 사용하여 사용자 로그인 데이터베이스 관리
+  
+  
+  ### 14주차
+  
+  * 웹서버 부분
+  
+  > 웹스트리밍 및 메인 웹서버 연동
+  
+  
+  
 * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
 ![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
