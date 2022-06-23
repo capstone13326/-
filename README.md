@@ -17,7 +17,7 @@
 
 ### 스마트밴드 부분
 
-### * Arduino nano 33 ble
+### * Arduino Nano 33 ble
 
 ![머신러닝](https://user-images.githubusercontent.com/105420733/175385373-204921c0-f23e-424a-9d9c-6e41899cc122.png)
 
@@ -30,7 +30,7 @@
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
 
-### * Arduino nano 33 ble > Raspberry Pi Zero W 로 변경
+### * Arduino Nano 33 ble > Raspberry Pi Zero W 로 변경
 
 ![KakaoTalk_20220624_041613625](https://user-images.githubusercontent.com/105420733/175391636-246ac736-98fb-47a2-9271-3a42889a2c05.png)
 
