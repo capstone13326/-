@@ -18,6 +18,8 @@
 ### 스마트밴드 부분
 
 ### * Arduino Nano 33 ble  
+<br/>
+
 ![머신러닝](https://user-images.githubusercontent.com/105420733/175385373-204921c0-f23e-424a-9d9c-6e41899cc122.png)
 
 <br/>
@@ -46,8 +48,10 @@
 
 ![rp2040](https://user-images.githubusercontent.com/105420733/175393287-e1f69dd6-d03e-48f2-9a88-9f643e2eaf0e.png)
 
-> 아두이노 폼팩터 + 라즈베리파이 RP2040 칩셋 내장. MicroPython을 지원하며 라즈베리파이 피코와도 호환이 된다. 사운드 활성화, 오디오 제어 및 AI 음성 인식을 위한 내장 마이크가 포함되어 있으며 6축 IMU가 있다. 또 Arduino nano 33 ble과 다르게 와이파이도 지원한다.
+<br/>
 
+> 아두이노 폼팩터 + 라즈베리파이 RP2040 칩셋 내장. MicroPython을 지원하며 라즈베리파이 피코와도 호환이 된다. 사운드 활성화, 오디오 제어 및 AI 음성 인식을 위한 내장 마이크가 포함되어 있으며 6축 IMU가 있다. 또 Arduino nano 33 ble과 다르게 와이파이도 지원한다.
+<br/><br/>
 ---------
 
 
