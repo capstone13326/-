@@ -48,17 +48,14 @@ https://user-images.githubusercontent.com/105420733/175294184-4d4c510c-8875-482f
 
 
  
-  
   > 데이터베이스 관리 시스템 DBMS((DataBase Management System)을 사용
   
   ![sq](https://user-images.githubusercontent.com/105420733/175082466-4d99816f-b047-4f11-8366-96bb19c89071.png)
   
   > SQLite를 사용하여 사용자 로그인 데이터베이스 관리
   
+  --------
   
-  ### 14주차
-  
-  * 웹서버 부분
   
   > 웹스트리밍 및 메인 웹서버 연동
   
