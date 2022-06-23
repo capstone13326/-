@@ -41,7 +41,7 @@
 
 ### 웹서버 부분
 
-* Jetson Nano > Raspberry Pi 변경
+* Jetson Nano > Raspberry Pi 4 변경
 
 > 젯슨나노 웹서버 호환 어려움
 
