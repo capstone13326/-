@@ -30,8 +30,22 @@
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
 
+* Arduino nano 33 ble > Raspberry Pi Zero W 변경
+
+> Arduino nano 33 ble에서 없는 무선 LAN을 지원한다. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있다. 아두이노 나노에서는 학습데이터를 확보하기 힘들다 때문에 확보가 쉬운 툴을 이용하여 학습이 잘되는 모델을 추천 받아
+
+
+
+
+
 
 ### 웹서버 부분
+
+* Jetson Nano > Raspberry Pi 변경
+
+> 젯슨나노 웹서버 호환 어려움
+
+---------------
 
 
  * motion을 이용한 라이브 웹스트리밍(웹 카메라 작동 확인)
