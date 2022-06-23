@@ -24,6 +24,8 @@
 
 > 아두이노에서 tinyML라이브러리를 사용하여 테스트 한 코드이다. 위 사진을 보면 yes는 초록색 LED로 no는 빨간색 LED로 표시되는데 외국인과 발음이 달라 잘 인식되지 않았다.
 
+<br/>
+
 #### 참조 링크
 > <https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/arduino_tinyml_workshop.ipynb>
 
