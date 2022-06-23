@@ -72,7 +72,6 @@
 
 ![Hnet-image](https://user-images.githubusercontent.com/105420733/170521420-48f7b16f-75a5-469e-91fe-d81626b120f0.gif)
 
-<br/><br/>
 
 ### * 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
 
@@ -90,11 +89,13 @@ https://user-images.githubusercontent.com/105420733/175293980-ad0c26f1-eb5e-4eb7
 https://user-images.githubusercontent.com/105420733/175294184-4d4c510c-8875-482f-b7e5-d7b79d53a6ae.mp4
 
 
-
+ <br/>
  
   > 데이터베이스 관리 시스템 DBMS((DataBase Management System)을 사용
   
   ![sq](https://user-images.githubusercontent.com/105420733/175082466-4d99816f-b047-4f11-8366-96bb19c89071.png)
+  
+  <br/>
   
   > SQLite를 사용하여 사용자 로그인 데이터베이스 관리
   
