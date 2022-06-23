@@ -32,7 +32,14 @@
 
 * Arduino nano 33 ble > Raspberry Pi Zero W 변경
 
-> Arduino nano 33 ble에서 없는 무선 LAN을 지원한다. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있다. 아두이노 나노에서는 학습데이터를 확보하기 힘들다 때문에 확보가 쉬운 툴을 이용하여 학습이 잘되는 모델을 추천 받아
+![KakaoTalk_20220624_041613625](https://user-images.githubusercontent.com/105420733/175391636-246ac736-98fb-47a2-9271-3a42889a2c05.png)
+
+>  Rasberry Pi Zero W는 Arduino nano 33 ble에서 없는 무선 LAN을 지원함. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있음. 또한 학습데이터 확보가 쉬운 툴을 사용할 수 있는 모델을 추천 받아 Raspberry Pi Zero W 로 변경
+
+
+* Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
+
+![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
 
 
 
@@ -43,7 +50,7 @@
 
 * Jetson Nano > Raspberry Pi 4 변경
 
-> 젯슨나노 웹서버 호환 어려움
+> 사유 : 젯슨나노 웹서버 호환 어려움
 
 ---------------
 
@@ -94,6 +101,3 @@ https://user-images.githubusercontent.com/105420733/175294275-c85d48d2-30a9-4af1
 
 
   
-* 교수님 피드백에 따라 Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
-
-![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
