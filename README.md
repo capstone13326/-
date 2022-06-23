@@ -73,7 +73,7 @@
 ![Hnet-image](https://user-images.githubusercontent.com/105420733/170521420-48f7b16f-75a5-469e-91fe-d81626b120f0.gif)
 
 
-#### > 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
+> 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
 
 <br/><br/>
 
