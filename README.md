@@ -17,8 +17,7 @@
 
 ### 스마트밴드 부분
 
-### * Arduino Nano 33 ble
-<br/>
+### * Arduino Nano 33 ble  
 ![머신러닝](https://user-images.githubusercontent.com/105420733/175385373-204921c0-f23e-424a-9d9c-6e41899cc122.png)
 
 > 아두이노에서 tinyML라이브러리를 사용하여 테스트 한 코드이다. 위 사진을 보면 yes는 초록색 LED로 no는 빨간색 LED로 표시되는데 외국인과 발음이 달라 잘 인식되지 않았다.
