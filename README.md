@@ -25,6 +25,8 @@
 
 * 참조 링크
 > <https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/arduino_tinyml_workshop.ipynb>
+
+
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
 
