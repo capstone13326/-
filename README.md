@@ -17,7 +17,7 @@
 
 ### 스마트밴드 부분
 
-### * Arduino Nano 33 ble
+### - Arduino Nano 33 ble
 
 ![머신러닝](https://user-images.githubusercontent.com/105420733/175385373-204921c0-f23e-424a-9d9c-6e41899cc122.png)
 
@@ -30,14 +30,14 @@
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
 
-### * Arduino Nano 33 ble > Raspberry Pi Zero W 로 변경
+### - Arduino Nano 33 ble > Raspberry Pi Zero W 로 변경
 
 ![KakaoTalk_20220624_041613625](https://user-images.githubusercontent.com/105420733/175391636-246ac736-98fb-47a2-9271-3a42889a2c05.png)
 
 >  Rasberry Pi Zero W는 Arduino nano 33 ble에서 없는 무선 LAN을 지원함. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있음. 또한 학습데이터 확보가 쉬운 툴을 사용할 수 있는 모델로 추천 받아 Raspberry Pi Zero W 로 변경
 
 
-### * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
+### - Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
 ![rp2040](https://user-images.githubusercontent.com/105420733/175393287-e1f69dd6-d03e-48f2-9a88-9f643e2eaf0e.png)
 
@@ -49,14 +49,14 @@
 
 ### 웹서버 부분
 
-### * Jetson Nano > Raspberry Pi 4 변경
+### - Jetson Nano > Raspberry Pi 4 변경
 
 > 젯슨나노 웹서버 호환에 어려움이 있으므로 웹서버 구축에 더 적합한 라즈베리파이로 변경
 
 
 
 
-### * motion을 이용한 라이브 웹스트리밍(웹 카메라 작동 확인)
+### - motion을 이용한 라이브 웹스트리밍(웹 카메라 작동 확인)
  
  > motion 설치
   
@@ -67,12 +67,12 @@
 
 
 
-### * 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
+### - 추후 플라스크 웹서버를 이용하여 웹스트리밍으로 수정
 
 ----------------------------------
 
 
-### * 회원가입 및 로그인, 로그아웃 기능
+### - 회원가입 및 로그인, 로그아웃 기능
 
 
 https://user-images.githubusercontent.com/105420733/175293980-ad0c26f1-eb5e-4eb7-97c9-4ccba8cc1682.mp4
@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/105420733/175294184-4d4c510c-8875-482f
   --------
   
   
- ### * 웹스트리밍 및 메인 웹서버 연동
+ ### - 웹스트리밍 및 메인 웹서버 연동
   
   
 
