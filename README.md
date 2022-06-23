@@ -38,7 +38,11 @@
 * 웹서버 부분
 
 > 회원가입 및 로그인, 로그아웃 기능
-  
+
+
+https://user-images.githubusercontent.com/105420733/175293980-ad0c26f1-eb5e-4eb7-97c9-4ccba8cc1682.mp4
+
+
   
 <video width="100%" height="100%" controls="controls">
   <source src="4학년/캡스톤디자인/회원가입.mp4)" type="video/mp4">
