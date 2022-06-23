@@ -28,14 +28,14 @@
 
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
-<br/><br/><br/>
+<br/><br/>
 ### * Arduino Nano 33 ble > Raspberry Pi Zero W 로 변경
 
 ![KakaoTalk_20220624_041613625](https://user-images.githubusercontent.com/105420733/175391636-246ac736-98fb-47a2-9271-3a42889a2c05.png)
 
 >  Rasberry Pi Zero W는 Arduino nano 33 ble에서 없는 무선 LAN을 지원함. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있음. 또한 학습데이터 확보가 쉬운 툴을 사용할 수 있는 모델로 추천 받아 Raspberry Pi Zero W 로 변경
 
-
+<br/><br/>
 ### * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
 ![rp2040](https://user-images.githubusercontent.com/105420733/175393287-e1f69dd6-d03e-48f2-9a88-9f643e2eaf0e.png)
