@@ -17,8 +17,7 @@
 
 ### 스마트밴드 부분
 
-### * Arduino Nano 33 ble  
-<br/>
+### * Arduino Nano 33 ble 
 
 ![머신러닝](https://user-images.githubusercontent.com/105420733/175385373-204921c0-f23e-424a-9d9c-6e41899cc122.png)
 
