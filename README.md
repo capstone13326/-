@@ -43,10 +43,13 @@
 https://user-images.githubusercontent.com/105420733/175293980-ad0c26f1-eb5e-4eb7-97c9-4ccba8cc1682.mp4
 
 
-  
-<video width="100%" height="100%" controls="controls">
-  <source src="4학년/캡스톤디자인/회원가입.mp4)" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/105420733/175294184-4d4c510c-8875-482f-b7e5-d7b79d53a6ae.mp4
+
+
+
+ 
   
   > 데이터베이스 관리 시스템 DBMS((DataBase Management System)을 사용
   
@@ -62,6 +65,10 @@ https://user-images.githubusercontent.com/105420733/175293980-ad0c26f1-eb5e-4eb7
   > 웹스트리밍 및 메인 웹서버 연동
   
   
+
+https://user-images.githubusercontent.com/105420733/175294275-c85d48d2-30a9-4af1-a608-a2eb102ef661.mp4
+
+
   
 * 교수님 피드백에 따라 Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
