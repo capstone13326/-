@@ -28,7 +28,7 @@
 
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
-
+<br/><br/><br/>
 ### * Arduino Nano 33 ble > Raspberry Pi Zero W 로 변경
 
 ![KakaoTalk_20220624_041613625](https://user-images.githubusercontent.com/105420733/175391636-246ac736-98fb-47a2-9271-3a42889a2c05.png)
