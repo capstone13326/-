@@ -30,17 +30,18 @@
 > <https://create.arduino.cc/projecthub/cy49/wake-up-the-world-detection-tinyml-8c13db>
 
 
-#### * Arduino nano 33 ble > Raspberry Pi Zero W 변경
+#### * Arduino nano 33 ble > Raspberry Pi Zero W 로 변경
 
 ![KakaoTalk_20220624_041613625](https://user-images.githubusercontent.com/105420733/175391636-246ac736-98fb-47a2-9271-3a42889a2c05.png)
 
->  Rasberry Pi Zero W는 Arduino nano 33 ble에서 없는 무선 LAN을 지원함. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있음. 또한 학습데이터 확보가 쉬운 툴을 사용할 수 있는 모델 추천 받아 Raspberry Pi Zero W 로 변경
+>  Rasberry Pi Zero W는 Arduino nano 33 ble에서 없는 무선 LAN을 지원함. 라즈베리파이 OS를 지원하기 때문에 파이썬 프로그램을 쓸 수 있음. 또한 학습데이터 확보가 쉬운 툴을 사용할 수 있는 모델로 추천 받아 Raspberry Pi Zero W 로 변경
 
 
 #### * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
-![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
+![rp2040](https://user-images.githubusercontent.com/105420733/175393287-e1f69dd6-d03e-48f2-9a88-9f643e2eaf0e.png)
 
+> 아두이노 폼팩터 + 라즈베리파이 RP2040 칩셋 내장. MicroPython을 지원하며 라즈베리파이 피코와도 호환이 된다. 사운드 활성화, 오디오 제어 및 AI 음성 인식을 위한 내장 마이크가 포함되어 있으며 6축 IMU가 있다. 또 Arduino nano 33 ble과 다르게 와이파이도 지원한다.
 
 ---------
 
@@ -50,7 +51,7 @@
 
 #### * Jetson Nano > Raspberry Pi 4 변경
 
-> 사유 : 젯슨나노 웹서버 호환에 어려움이 있음
+> 젯슨나노 웹서버 호환에 어려움이 있으므로 웹서버 구축에 더 적합한 라즈베리파이로 변경
 
 
 
