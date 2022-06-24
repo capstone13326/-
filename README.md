@@ -3,6 +3,8 @@
 
 ## **1. 블럭도**
 
+![스크린샷(107)](https://user-images.githubusercontent.com/105420733/175464115-e4177a64-d348-4fbe-bea1-6e9f85b45091.png)
+
 
 <br/><br/>
 ## **2. 작품 목표**
