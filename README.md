@@ -134,3 +134,6 @@ https://user-images.githubusercontent.com/105420733/189767404-2eb233a1-171e-4b0d
   <br/>
   
   > 영상처리를 이용하여 flask 웹 서버에 실시간 얼굴인식 기능 사용
+
+
+![flask 얼굴인식](https://user-images.githubusercontent.com/105420733/189768970-dab50650-144e-4f11-8ca5-367513d8d011.png)
