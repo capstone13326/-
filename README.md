@@ -124,4 +124,6 @@ https://user-images.githubusercontent.com/105420733/175294275-c85d48d2-30a9-4af1
   <br/>
   
   
+ ### * highchart를 이용하여 무작위 값을 받아 flask 웹 서버에 실시간 그래프 그리기 구현
+  
 https://user-images.githubusercontent.com/105420733/189767404-2eb233a1-171e-4b0d-97ab-1e25a1becc0b.mp4
