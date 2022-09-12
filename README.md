@@ -137,3 +137,6 @@ https://user-images.githubusercontent.com/105420733/189767404-2eb233a1-171e-4b0d
 
 
 ![flask 얼굴인식](https://user-images.githubusercontent.com/105420733/189768970-dab50650-144e-4f11-8ca5-367513d8d011.png)
+
+
+> 반응속도가 느려짐
