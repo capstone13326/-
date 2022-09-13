@@ -74,6 +74,10 @@
 > 컴파일 에러로 인해 진행 불가
 
 
+<br/>
+
+![F21E9C27-F6C1-40B5-8515-13F7A3189055](https://user-images.githubusercontent.com/105420733/189805961-554b35a2-de8d-4739-bab0-db8cda09fdea.png)
+
 
 > Teachable Machine에서 사운드 인식은 Tensorflow.js 만 선택할 수 있어 p5.js에서 학습된 데이터를 확인하였음
 
