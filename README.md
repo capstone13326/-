@@ -63,10 +63,15 @@
 
 
 ### * RP2040 - 심박수센서 연결
+
+
+![99E46247-0BF7-45EA-A319-61EF3FE62FFD](https://user-images.githubusercontent.com/105420733/189802689-314e5fe4-4a26-41a7-be9f-ea0ae7d1ca97.jpeg)
+
 ![B2EB1CEC-DE8E-419F-99F6-DD226863451C](https://user-images.githubusercontent.com/105420733/189802326-424c0d29-41fd-4a65-a2be-cb96836e77ca.png)
 
+<br/>
 
-
+> 컴파일 에러로 인해 진행 불가
 
 ---------
 <br/>
