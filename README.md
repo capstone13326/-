@@ -90,8 +90,8 @@
 <br/>
 
 #### 참조 링크
-> < https://github.com/alankrantas/TeachableMachine-p5js-serialport>
-> < https://create.arduino.cc/projecthub/alankrantas/use-teachable-machine-ai-to-control-anything-2ad1ee>
+> <https://github.com/alankrantas/TeachableMachine-p5js-serialport>
+> <https://create.arduino.cc/projecthub/alankrantas/use-teachable-machine-ai-to-control-anything-2ad1ee>
 
 
 ---------
