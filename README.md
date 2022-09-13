@@ -174,4 +174,4 @@ https://user-images.githubusercontent.com/105420733/189767404-2eb233a1-171e-4b0d
 ![flask 얼굴인식](https://user-images.githubusercontent.com/105420733/189768970-dab50650-144e-4f11-8ca5-367513d8d011.png)
 
 
-> 반응속도가 느려짐
+> opencv2 실시간 영상처리 이용해서 얼굴인식 웹캠 구현 하였으나 실시간 스트리밍 속도가 느려짐
