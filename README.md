@@ -86,6 +86,14 @@
 > Teachable Machine에서 사운드 인식은 Tensorflow.js 만 선택할 수 있어 p5.js에서 학습된 데이터를 확인하였음
 
 > p5.js : 자바로 되어 있는 Processing을 자바스크립트 버전으로 만든 라이브러리
+
+<br/>
+
+#### 참조 링크
+> < https://github.com/alankrantas/TeachableMachine-p5js-serialport>
+> < https://create.arduino.cc/projecthub/alankrantas/use-teachable-machine-ai-to-control-anything-2ad1ee>
+
+
 ---------
 <br/>
 
