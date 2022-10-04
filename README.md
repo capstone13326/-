@@ -185,5 +185,18 @@ https://user-images.githubusercontent.com/105420733/189767404-2eb233a1-171e-4b0d
 <br/>
 
 
+![라즈베리파이](https://user-images.githubusercontent.com/105420733/193738287-57d5ce2f-826c-4f55-88c3-47d21cf3cb82.jpg)
+
+> Edge_Impulse 와 라즈베리파이 연결 오류
+
+
+![스크린샷(115)](https://user-images.githubusercontent.com/105420733/193737548-6ba56eb8-7024-4157-9e89-f98bc491299c.png)
+
+> 첫번째 자료 참고해 Edge_Impulse 에서 Training data, Test data 등록 진행 중
+
+Teachable machine 모델과 라즈베리파이 연결 부분 진행 중
+
+
+
 
 
