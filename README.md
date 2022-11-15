@@ -4,7 +4,8 @@
 ## **1. 블럭도**
 <br/>
 
-![스크린샷(107)](https://user-images.githubusercontent.com/105420733/175464115-e4177a64-d348-4fbe-bea1-6e9f85b45091.png)
+![스크린샷(129)](https://user-images.githubusercontent.com/105420733/201820463-9f000e54-c8b3-42e0-9208-738581972b68.png)
+
 
 
 <br/><br/>
