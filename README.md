@@ -4,8 +4,8 @@
 ## **1. 블럭도**
 <br/>
 
-![스크린샷(129)](https://user-images.githubusercontent.com/105420733/201820463-9f000e54-c8b3-42e0-9208-738581972b68.png)
 
+![스크린샷(137)](https://user-images.githubusercontent.com/105420733/203249325-360ce94e-7ee8-4857-9c05-7155c43ef338.png)
 
 
 <br/><br/>
@@ -13,7 +13,8 @@
 ## **2. 작품 목표**
 <br/>
 
-![작품목적](https://user-images.githubusercontent.com/105420733/175464288-49f800f1-d6e3-477a-8d06-91cf84033aa3.png)
+![스크린샷(136)](https://user-images.githubusercontent.com/105420733/203249358-9b2f6293-0f8a-47c4-9c47-eb500a65e893.png)
+
 
 <br/>
 
