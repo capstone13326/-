@@ -89,6 +89,12 @@ except:
 <br/><br/>
 
 
+https://user-images.githubusercontent.com/105420733/203380591-11ab67a0-16d0-4ce3-a8d0-bfaf3eeca31d.mp4
+
+
+
+<br/><br/>
+
 ## **5. 팀원구성**
 <br/>
 
