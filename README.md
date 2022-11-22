@@ -60,15 +60,15 @@ except:
  
   
   
-         
-###    노약자 모니터링 시스템
+###  **노약자 모니터링 시스템**
+  + 얼굴인식
+    + teachable machine 파이썬 실행
+ 
+![노약자모니터링](https://user-images.githubusercontent.com/105420733/203365450-df70f6ab-a7f4-4505-a279-be49f6df6b46.png)
 
-         *  얼굴인식
-                - teachable machine 얼굴인식
-                
-         *  Node-Red
-                - Mqtt 심박수 데이터 받아 그래프,차트로 표시
-                - Mqtt 얼굴인식 결과값 받아 표시
+  + Node-Red 
+    + Mqtt 심박수 데이터 받아 그래프,차트로 표시
+    + Mqtt 얼굴인식 결과값 받아 표시
          
    <br/>
    
@@ -77,8 +77,11 @@ except:
 
 ![KakaoTalk_20221122_195350399](https://user-images.githubusercontent.com/105420733/203312369-b2b517d8-e5ea-4e94-b379-8ff70864e2a0.png)
 
-<br/><br/>
+<br/>
 
+![nodered ui](https://user-images.githubusercontent.com/105420733/203365898-6b0f75c1-0cf9-4ada-9f40-e9bb09d1a9a8.png)
+
+<br/><br/>
 
 
 ## **4. 구동영상**
