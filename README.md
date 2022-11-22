@@ -38,11 +38,11 @@
 
  
  <br/><br/>
-> Rapberry Pi Zero W에 브레드보드를 연결하여 Pulse Sensor와 함께 회로 구성 
+ 
+ Rapberry Pi Zero W에 브레드보드를 연결하여 Pulse Sensor와 함께 회로 구성 
 
 <br/>
-
-> Purse Sensor가 Arduino 전용 센서이기 때문에 ADC converter를 이용해 회로 구성
+ Purse Sensor가 Arduino 전용 센서이기 때문에 ADC converter를 이용해 회로 구성
          
 ###    노약자 모니터링 시스템
 
