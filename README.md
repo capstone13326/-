@@ -16,9 +16,7 @@
 
 ## **2. 블럭도**
 <br/>
-
-
-![스크린샷(137)](https://user-images.githubusercontent.com/105420733/203249325-360ce94e-7ee8-4857-9c05-7155c43ef338.png)
+![스크린샷(140)](https://user-images.githubusercontent.com/105420733/203312914-aa6b2f6d-0613-49e5-bb5b-df5f0c1cf0d2.png)
 
 
 <br/>
