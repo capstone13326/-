@@ -39,10 +39,7 @@
  
  <br/><br/>
  
- Rapberry Pi Zero W에 브레드보드를 연결하여 Pulse Sensor와 함께 회로 구성 
-
-<br/>
- Purse Sensor가 Arduino 전용 센서이기 때문에 ADC converter를 이용해 회로 구성
+ Pulse센서는 Arduino용으로 설계되었기 때문에 디지털로 읽을 수 있는 신호를 제공하지 않습니다. 아날로그 신호를 읽으려면 ADC가 필요하여 MCP3008의 채널 0에 연결하여 회로를 구성하였습니다. 
          
 ###    노약자 모니터링 시스템
 
