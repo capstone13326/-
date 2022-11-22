@@ -37,8 +37,7 @@
  ![바꾼회로](https://user-images.githubusercontent.com/105420733/203353637-cfa171ea-86cf-4498-86b7-4cd1da30bc22.png)
 
  
- <br/><br/>
- 
+ <br/>
  Pulse센서는 Arduino용으로 설계되었기 때문에 디지털로 읽을 수 있는 신호를 제공하지 않습니다. 아날로그 신호를 읽으려면 ADC가 필요하여 MCP3008의 채널 0에 연결하여 회로를 구성하였습니다. 
          
 ###    노약자 모니터링 시스템
