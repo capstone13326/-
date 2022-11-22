@@ -73,9 +73,8 @@
   + 심채은
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-## ** 진행사항**
+<br/><br/><br/><br/>
+## 진행과정
 
 ### 스마트밴드 부분
 
