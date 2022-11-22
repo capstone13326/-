@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-## **1. 작품 목표**
+## **1. 작품목표**
 <br/>
 
 ![스크린샷(136)](https://user-images.githubusercontent.com/105420733/203249358-9b2f6293-0f8a-47c4-9c47-eb500a65e893.png)
@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-## **4. 역할분담**
+## **4. 팀원구성**
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
