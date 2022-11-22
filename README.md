@@ -34,7 +34,8 @@
 
          * 심박센서 회로 연결
         
- ![회로](https://user-images.githubusercontent.com/105420733/203348024-232c3131-1a11-446f-9db9-83e3d419adb8.png)
+ ![바꾼회로](https://user-images.githubusercontent.com/105420733/203353637-cfa171ea-86cf-4498-86b7-4cd1da30bc22.png)
+
  
  <br/><br/>
 > Rapberry Pi Zero W에 브레드보드를 연결하여 Pulse Sensor와 함께 회로 구성 
