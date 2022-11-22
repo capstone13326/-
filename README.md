@@ -31,6 +31,20 @@
 
          * 심박센서 작동 코드
 
+```
+try:
+    while True:
+        bpm = p.BPM
+        if bpm > 0:
+            print("BPM: %d" % bpm)
+        else:
+            print("No Heartbeat found")
+        time.sleep(1)
+except:
+    p.stopAsyncBPM()
+```
+
+
          * 심박센서 회로 연결
         
  ![바꾼회로](https://user-images.githubusercontent.com/105420733/203353637-cfa171ea-86cf-4498-86b7-4cd1da30bc22.png)
