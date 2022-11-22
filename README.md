@@ -21,10 +21,6 @@
 ![스크린샷(140)](https://user-images.githubusercontent.com/105420733/203312914-aa6b2f6d-0613-49e5-bb5b-df5f0c1cf0d2.png)
 
 
-<br/>
-
-
-![KakaoTalk_20221122_195350399](https://user-images.githubusercontent.com/105420733/203312369-b2b517d8-e5ea-4e94-b379-8ff70864e2a0.png)
 
 
 <br/><br/>
@@ -43,10 +39,13 @@
          *  얼굴인식
                 - teachable machine 얼굴인식
                 
-         *  노드레드
+         *  Node-Red
                 - Mqtt 심박수 데이터 받아 그래프,차트로 표시
                 - Mqtt 얼굴인식 결과값 받아 표시
          
+###    Node-Red UI 구축
+
+![KakaoTalk_20221122_195350399](https://user-images.githubusercontent.com/105420733/203312369-b2b517d8-e5ea-4e94-b379-8ff70864e2a0.png)
 
 <br/><br/>
 
