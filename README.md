@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-## *4. 역할분담**
+## *4. 역할분담*
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
