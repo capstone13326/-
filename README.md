@@ -28,9 +28,17 @@
 
 ###    심박수 측정기
 
-         * 심박센서 작동 코드
+     * 심박센서 회로 연결
+        
+ ![바꾼회로](https://user-images.githubusercontent.com/105420733/203353637-cfa171ea-86cf-4498-86b7-4cd1da30bc22.png)
+ 
+  <br/>
+  
+   Pulse센서는 Arduino용으로 설계되었기 때문에 디지털로 읽을 수 있는 신호를 제공하지 않습니다. 아날로그 신호를 읽으려면 ADC가 필요하여 MCP3008의 채널 0에 연결하여 회로를 구성하였습니다. 
 
-```
+
+      * 심박센서 작동 코드
+``` C
 try:
     while True:
         bpm = p.BPM
@@ -43,14 +51,11 @@ except:
     p.stopAsyncBPM()
 ```
 
-
-         * 심박센서 회로 연결
-        
- ![바꾼회로](https://user-images.githubusercontent.com/105420733/203353637-cfa171ea-86cf-4498-86b7-4cd1da30bc22.png)
-
+  <br/>
+   
  
- <br/>
- Pulse센서는 Arduino용으로 설계되었기 때문에 디지털로 읽을 수 있는 신호를 제공하지 않습니다. 아날로그 신호를 읽으려면 ADC가 필요하여 MCP3008의 채널 0에 연결하여 회로를 구성하였습니다. 
+  
+  
          
 ###    노약자 모니터링 시스템
 
@@ -61,6 +66,9 @@ except:
                 - Mqtt 심박수 데이터 받아 그래프,차트로 표시
                 - Mqtt 얼굴인식 결과값 받아 표시
          
+   <br/>
+   
+   
 ###    Node-Red UI 구축
 
 ![KakaoTalk_20221122_195350399](https://user-images.githubusercontent.com/105420733/203312369-b2b517d8-e5ea-4e94-b379-8ff70864e2a0.png)
@@ -72,10 +80,7 @@ except:
 ## **4. 구동영상**
 
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 ## **5. 팀원구성**
 <br/>
@@ -267,8 +272,6 @@ https://user-images.githubusercontent.com/105420733/189767404-2eb233a1-171e-4b0d
 > 첫번째 자료 참고해 Edge_Impulse 에서 Training data, Test data 등록 진행 중
 
 Teachable machine 모델과 라즈베리파이 연결 부분 진행 중
-
-
 
 
 
