@@ -30,14 +30,18 @@
 <br/><br/>
 
 ## **3. 구동영상**
-
+<br/>
 
 <br/><br/>
 
 ## **4. 팀원구성**
+<br/>
+* 정여진
+* 김용호
+* 서도열
+* 
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## ** 진행사항**
 
