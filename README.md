@@ -86,7 +86,7 @@ except:
 
 
 ###    음성인식 기능
-
+<br/>
 ![음성인식](https://user-images.githubusercontent.com/105420733/203468022-b84c2a49-a9f6-48a9-a748-2689f07a82b0.png)
 
 
