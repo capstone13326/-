@@ -85,6 +85,17 @@ except:
 <br/><br/>
 
 
+###    음성인식 기능
+
+![음성인식](https://user-images.githubusercontent.com/105420733/203468022-b84c2a49-a9f6-48a9-a748-2689f07a82b0.png)
+
+
+edge impulse 사용하여 원하는 단어(데이터)를 수집 노이즈와 언노운을 넣어 데이터 세트를 구축하였습니다.
+데이터 세트를 통해 MFCC(Mel Frequency Cepstral Coefficients)(많은 양의 중복 정보를 단순화된 형식으로 바꾸는 방법)블록 및 신경망을 구성하고 완성된 보이스 정보를 CLASSIFIER를 사용하여 단어 기계 학습 모델을 실행해주었습니다.
+
+<br/>
+
+
 ## **4. 구동영상**
 
 <br/><br/>
