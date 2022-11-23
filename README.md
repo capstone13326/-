@@ -94,8 +94,28 @@ edge impulse 사용하여 원하는 단어(데이터)를 수집 노이즈와 언
 데이터 세트를 통해 MFCC(Mel Frequency Cepstral Coefficients)(많은 양의 중복 정보를 단순화된 형식으로 바꾸는 방법)블록 및 신경망을 구성하고 완성된 보이스 정보를 CLASSIFIER를 사용하여 단어 기계 학습 모델을 실행해주었습니다.
 
 <br/><br/>
-음성인식 작동영상
 
+<br/>
+
+![KakaoTalk_20221123_132856994](https://user-images.githubusercontent.com/105420733/203469550-79582cce-b970-4c77-9db5-59aeea8719d1.jpg)
+
+
+<br/>
+
+![KakaoTalk_20221123_132856994_02](https://user-images.githubusercontent.com/105420733/203469545-a54ecf95-fd03-4542-9e7c-fcd8752b87e1.jpg)
+
+>특정 단어가 아닐 때 noise와 unknown에 반응
+<br/>
+
+![KakaoTalk_20221123_132856994_01](https://user-images.githubusercontent.com/105420733/203469551-2d5ed1ef-56dd-4a4b-82d1-a28c8bac5e9d.jpg)
+
+>주변 소음이 있을 때 noise에 반응
+
+<br/><br/>
+
+*음성인식 작동영상
+
+<br/>
 
 <https://youtu.be/YuNdvmOJLkc>
 
